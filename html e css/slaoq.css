@@ -14,3 +14,19 @@ li{
 table{
     text-decoration-line: underline;
 }
+thead{
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: orange;
+    background-color: rgb(176, 224, 44);
+    color: rgb(0, 0, 0);
+}
+
+tbody tr:nth-child(even) {
+  background-color: #6b2323;
+  color:aqua;
+}
+tbody tr:nth-child(odd) {
+    background-color: rgb(15, 40, 148);
+    color:crimson
+}
