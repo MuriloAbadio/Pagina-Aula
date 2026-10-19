@@ -1,0 +1,16 @@
+.brasil{
+    background-color: chocolate;
+    color: rgb(136, 27, 27);
+    border: none;
+}
+li{
+    font-size: large;
+    text-decoration-line: underline;
+    text-decoration-color:red;
+    text-decoration-style:dashed;
+    padding: 2px 4px;
+    color:rgb(201, 46, 46);
+}
+table{
+    text-decoration-line: underline;
+}
